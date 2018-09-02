@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 270825398}
   - component: {fileID: 270825397}
   - component: {fileID: 270825396}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1741,12 +1741,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 270825395}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -89, y: 13, z: 0}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 12, z: -89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 1388578501}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &625927128
 GameObject:
@@ -2064,6 +2064,14 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
   m_IsPrefabParent: 0
@@ -2148,6 +2156,10 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1388578501 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
+  m_PrefabInternal: {fileID: 1015980954}
 --- !u!1 &1531761562
 GameObject:
   m_ObjectHideFlags: 0
@@ -2292,7 +2304,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-936546
+  m_Name: pb_Mesh5006
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
