@@ -139,7 +139,7 @@ MeshCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 270825395}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 2af30c3807572de4bae0ce88ce5522fe, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -2072,6 +2072,11 @@ Prefab:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 6400000, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 2af30c3807572de4bae0ce88ce5522fe,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
   m_IsPrefabParent: 0
@@ -2277,7 +2282,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 99c13207cea8c1d4380efe1cd8f683fa, type: 3}
-  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.14509805}
+  m_Color: {r: 0.7607844, g: 0.7607844, b: 0.7607844, a: 0.3764706}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2304,7 +2309,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh5006
+  m_Name: pb_Mesh15948
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
