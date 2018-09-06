@@ -139,7 +139,7 @@ MeshCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 270825395}
-  m_Material: {fileID: 13400000, guid: 2af30c3807572de4bae0ce88ce5522fe, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -1885,7 +1885,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 696633665}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 2af30c3807572de4bae0ce88ce5522fe, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -2075,8 +2075,7 @@ Prefab:
     - target: {fileID: 6400000, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
       propertyPath: m_Material
       value: 
-      objectReference: {fileID: 13400000, guid: 2af30c3807572de4bae0ce88ce5522fe,
-        type: 2}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0ea1b4cbc52326746a4612391a3310cd, type: 3}
   m_IsPrefabParent: 0
@@ -2309,7 +2308,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh15948
+  m_Name: pb_Mesh5024
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
