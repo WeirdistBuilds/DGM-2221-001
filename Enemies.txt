@@ -1,0 +1,26 @@
+Baseball Guy - Moves back and forth, reversing on ledges or walls
+Dashing Dog - Moves back and forth, reversing on walls, runs off ledges
+Knife Guy - Moves towards player no matter what, throws knife every 3 seconds
+Boxing Guy - Bounces towards player, bounces hard at them when near player
+Bats - Move across screen in a wave pattern
+
+Witch - Moves randomly back and forth in a small area, throws crosses with random arcs (faces player)
+Dashing Soldier - Just like dashing dog, but larger, and jumps on ledges
+Shooting Soldier - Same move pattern as witch, but shoots three bullets every 2 seconds.
+Machete Guy - Same as Baseball Guy
+
+Scripts needed:
+Ledge detector
+Wall detector
+Player detector
+Jump (can use same superunit?)
+Throw knife/shoot bullets
+Bounce
+Far Bounce
+Small area movement
+Throw cross (random arc)
+
+
+
+
+
