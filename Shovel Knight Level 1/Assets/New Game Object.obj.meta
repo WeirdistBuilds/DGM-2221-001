@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: a503450e73667b949b8186cbaf8ee9d2
+guid: dd093bfddb118b7429effe557466c99c
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: MovingPlatform
-    100002: //RootNode
-    400000: MovingPlatform
-    400002: //RootNode
-    2100000: Default_Prototype
-    2300000: MovingPlatform
-    3300000: MovingPlatform
-    4300000: MovingPlatform
+    100000: //RootNode
+    100002: New_Game_Object
+    400000: //RootNode
+    400002: New_Game_Object
+    2100000: New_Game_ObjectMat
+    2300000: New_Game_Object
+    3300000: New_Game_Object
+    4300000: New_Game_Object
   externalObjects: {}
   materials:
     importMaterials: 1
