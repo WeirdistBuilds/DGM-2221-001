@@ -7,6 +7,9 @@ TagManager:
   - KillBox
   - MovingPlatform
   - Enemy
+  - Bullet
+  - Nunchuck
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -19,10 +22,10 @@ TagManager:
   - PostProcessing
   - Ground
   - KillBox
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Nunchuck
+  - Invincible
+  - Enemy
   - 
   - 
   - 
