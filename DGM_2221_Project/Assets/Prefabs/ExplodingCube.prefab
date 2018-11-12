@@ -23,9 +23,9 @@ GameObject:
   - component: {fileID: 23416156593528702}
   - component: {fileID: 65546007443089976}
   - component: {fileID: 54226354944321822}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42,9 +42,9 @@ GameObject:
   - component: {fileID: 23655175489235612}
   - component: {fileID: 65805908939950766}
   - component: {fileID: 54690290277377676}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61,9 +61,9 @@ GameObject:
   - component: {fileID: 23589031469380898}
   - component: {fileID: 65251931647772778}
   - component: {fileID: 54021738269126752}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -80,9 +80,9 @@ GameObject:
   - component: {fileID: 23533329195764390}
   - component: {fileID: 65195459014777058}
   - component: {fileID: 54639689345636430}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -98,9 +98,9 @@ GameObject:
   - component: {fileID: 114076543431112558}
   - component: {fileID: 114478343915765944}
   - component: {fileID: 65738558279768814}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: ExplodingCube
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117,9 +117,9 @@ GameObject:
   - component: {fileID: 23808531526458444}
   - component: {fileID: 65229903423063024}
   - component: {fileID: 54746702046113328}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -136,9 +136,9 @@ GameObject:
   - component: {fileID: 23954095770418066}
   - component: {fileID: 65800431328207120}
   - component: {fileID: 54964533519515582}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -155,9 +155,9 @@ GameObject:
   - component: {fileID: 23016606690009472}
   - component: {fileID: 65606435330861934}
   - component: {fileID: 54489244993218772}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -171,9 +171,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4645882187231126}
   - component: {fileID: 65967390057396738}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Exploder
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -190,9 +190,9 @@ GameObject:
   - component: {fileID: 23338443388899246}
   - component: {fileID: 65989681541741676}
   - component: {fileID: 54375193838742602}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: Piece (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -321,7 +321,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1357020618724118}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.5, y: -0.5, z: 0}
+  m_LocalPosition: {x: 10, y: 2.5, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 4645882187231126}
