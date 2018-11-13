@@ -98,7 +98,7 @@ GameObject:
   - component: {fileID: 114076543431112558}
   - component: {fileID: 114478343915765944}
   - component: {fileID: 65738558279768814}
-  m_Layer: 15
+  m_Layer: 9
   m_Name: ExplodingCube
   m_TagString: Ground
   m_Icon: {fileID: 0}
