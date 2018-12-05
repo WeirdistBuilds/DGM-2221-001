@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/IntroScreen.unity
+    guid: dde8bff9340f20544b6b68bd4de73c30
+  - enabled: 1
+    path: Assets/Scenes/ShovelKnight.unity
+    guid: 41e4c16c0cd473d4994080d0a01f4763
   m_configObjects: {}
